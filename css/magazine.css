@@ -10,21 +10,21 @@ body {
     position: absolute;
     top: 44%;
     left: 50%;
-    height: 600px;
+    height: 300px;
     margin: auto;
     /* keyword values */
 }
 
 .magazine-viewport .magazine {
-    width: 922px;
-    height: 600px;
+    width: 322px;
+    height: 400px;
     left: -461px;
-    top: -300px;
+    top: -200px;
 }
 
 .magazine-viewport .page {
-    width: 461px;
-    height: 600px;
+    width: 161px;
+    height: 100px;
     background-color: white;
     background-repeat: no-repeat;
     background-size: 100% 100%;
